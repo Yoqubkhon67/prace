@@ -1,4 +1,3 @@
-# prace
 # 🎮 Counter-Strike 2: Taktický manuál operátora
 
 Vítejte v oficiálním průvodci pro hráče **Counter-Strike 2**. Tento repozitář slouží jako kompletní databáze výzbroje, map, konfiguračních skriptů a herních mechanik pro kompetitivní zápasy.
@@ -32,7 +31,7 @@ Další informace a aktualizace najdete na [oficiálním webu Counter-Strike](ht
 
 Níže je zobrazeno taktické schéma obsazení bodu A na mapě Mirage:
 
-![Taktické schéma Mirage](images/schema-cs2.jpg)
+![Taktické schéma Mirage](schema.jpg)
 
 ---
 
@@ -41,13 +40,13 @@ Níže je zobrazeno taktické schéma obsazení bodu A na mapě Mirage:
 Pro maximální odezvu a čistý obraz používáme v konfiguračním souboru následující příkazy:
 
 ```cfg
-// Optimalizace sítě a obrazu pro CS2
+// Optimalizace site a obrazu pro CS2
 fps_max 400
 cl_showfps 1
 cl_radar_always_centered 0
 cl_radar_scale 0.45
 
-// Bind na jumpthrow pro přesné kouřové granáty
+// Bind na jumpthrow pro presne kourove granaty
 alias "+jumpaction" "+jump;"
 alias "+throwaction" "-attack; -attack2"
 alias "-jumpaction" "-jump"
