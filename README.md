@@ -10,8 +10,8 @@ Vítejte v oficiálním průvodci pro hráče **Counter-Strike 2**. Tento repozi
 
 ### Podrobné sekce manuálu
 Pro detailní rozbor jednotlivých částí hry navštivte připravené dokumenty v tomto repozitáři:
-* [Přehled zbraní a ekonomiky](zbrane.md)
-* [Aktivní mapy a callouty](mapy.md)
+- [Přehled zbraní a ekonomiky](zbrane.md)
+- [Aktivní mapy a callouty](mapy.md)
 
 ### Příprava před každým kolem
 1. Zkontrolovat stav peněz celého týmu (Eco / Force / Full buy).
@@ -40,13 +40,13 @@ Níže je zobrazeno taktické schéma obsazení bodu A na mapě Mirage:
 Pro maximální odezvu a čistý obraz používáme v konfiguračním souboru následující příkazy:
 
 ```cfg
-// Optimalizace site a obrazu pro CS2
+// Optimalizace sítě a obrazu pro CS2
 fps_max 400
 cl_showfps 1
 cl_radar_always_centered 0
 cl_radar_scale 0.45
 
-// Bind na jumpthrow pro presne kourove granaty
+// Bind na jumpthrow pro přesné kouřové granáty
 alias "+jumpaction" "+jump;"
 alias "+throwaction" "-attack; -attack2"
 alias "-jumpaction" "-jump"
