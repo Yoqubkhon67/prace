@@ -31,7 +31,7 @@ Další informace a aktualizace najdete na [oficiálním webu Counter-Strike](ht
 
 Níže je zobrazeno taktické schéma obsazení bodu A na mapě Mirage:
 
-![Taktické schéma Mirage](schema2.jpg)
+![Taktické schéma Mirage](schemaa2.jpg)
 
 ---
 
