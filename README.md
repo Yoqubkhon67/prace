@@ -1,6 +1,15 @@
-# 🎮 Counter-Strike 2: Taktický manuál operátora
+<div align="center">
 
-Vítejte v průvodci pro hráče **Counter-Strike 2**. Tento repozitář slouží jako přehled výzbroje, map, konfiguračních skriptů a herních mechanik pro kompetitivní zápasy.
+# 🎮 Counter-Strike 2
+### Taktický manuál operátora
+
+![Hra](https://img.shields.io/badge/hra-Counter--Strike%202-orange)
+![Žánr](https://img.shields.io/badge/žánr-taktická%20FPS-blue)
+![Stav](https://img.shields.io/badge/stav-v%20přípravě-green)
+
+*Přehled výzbroje, map, konfigurace a herních mechanik pro kompetitivní zápasy.*
+
+</div>
 
 ---
 
@@ -8,12 +17,12 @@ Vítejte v průvodci pro hráče **Counter-Strike 2**. Tento repozitář slouž�
 
 Úspěch v zápase nestojí jen na rychlých reflexech, ale především na **týmové komunikaci** a **ekonomice**. Běžní hráči spoléhají na štěstí, *profesionálové se řídí přesnými daty a načasováním*. Někdy je *komunikace v týmu **opravdu náročná***, ale bez ní se vyhrát nedá. ~~Staré zvyky z CS:GO už na sub-tick serverech neplatí.~~
 
+> 💡 **Tip:** Nejdůležitější je mít ve hře plán. Bez něj z kola nic nebude.
+
 ### Podrobné sekce manuálu
 
-Pro detailní rozbor jednotlivých částí hry navštivte tyto dokumenty:
-
-- [Přehled zbraní a ekonomiky](zbrane.md)
-- [Aktivní mapy a callouty](mapy.md)
+- 🔫 [Přehled zbraní a ekonomiky](zbrane.md)
+- 🗺️ [Aktivní mapy a callouty](mapy.md)
 
 ### Příprava před každým kolem
 
@@ -31,11 +40,17 @@ Pro detailní rozbor jednotlivých částí hry navštivte tyto dokumenty:
 
 ## 2. Zdroje a taktické schéma
 
-Další informace a aktualizace najdete na [oficiálním webu Counter-Strike](https://www.counter-strike.net) nebo v [komunitní wiki na Liquipedii](https://liquipedia.net/counterstrike).
+Další informace najdete na [oficiálním webu Counter-Strike](https://www.counter-strike.net) nebo v [komunitní wiki na Liquipedii](https://liquipedia.net/counterstrike).
 
-Níže je taktické schéma obsazení bodu A na mapě Mirage:
+Taktické schéma obsazení bodu A na mapě Mirage:
+
+<div align="center">
 
 ![Taktické schéma obsazení bodu A na mapě Mirage](images/schemaa2.jpg)
+
+*Obrázek 1: Obsazení bodu A na mapě Mirage*
+
+</div>
 
 ---
 
@@ -61,12 +76,12 @@ bind "v" "+jumpaction;+throwaction;"
 
 ## 4. Porovnání základních zbraní
 
-| Zbraň   | Strana | Cena    | Výhoda                          | Nevýhoda                     |
-|---------|--------|---------|---------------------------------|------------------------------|
-| AK-47   | T      | 2 700 $ | Zabije na jednu ránu do hlavy   | Těžko zvládnutelný zpětný ráz |
-| M4A4    | CT     | 2 900 $ | Větší zásobník (30 nábojů)      | Slabší než AK-47             |
-| M4A1-S  | CT     | 2 900 $ | Tlumič, přesnost                | Menší zásobník (20 nábojů)   |
-| AWP     | T / CT | 4 750 $ | Zabije jednou ranou             | Drahá, pomalá střelba        |
+| Zbraň  | Strana | Cena    | Výhoda                        | Nevýhoda                      |
+|--------|:------:|--------:|-------------------------------|-------------------------------|
+| AK-47  | T      | 2 700 $ | Zabije na jednu ránu do hlavy | Těžko zvládnutelný zpětný ráz |
+| M4A4   | CT     | 2 900 $ | Větší zásobník (30 nábojů)    | Slabší než AK-47              |
+| M4A1-S | CT     | 2 900 $ | Tlumič, přesnost              | Menší zásobník (20 nábojů)    |
+| AWP    | T / CT | 4 750 $ | Zabije jednou ranou           | Drahá, pomalá střelba         |
 
 ---
 
@@ -90,3 +105,11 @@ flowchart TD
     D --> G[Hrajeme agresivně]
     E --> H[Hrajeme podle taktiky]
 ```
+
+---
+
+<div align="center">
+
+*Vytvořeno jako školní projekt, Markdown na GitHubu* 🚀
+
+</div>
