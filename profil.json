@@ -1,0 +1,16 @@
+{
+  "jmeno": "Jan Novák",
+  "vek": 17,
+  "je_plnolety": false,
+  "poznamka": null,
+  "adresa": {
+    "ulice": "Hlavní 12",
+    "mesto": "Ostrava",
+    "psc": "70200"
+  },
+  "konicky": [
+    "programování",
+    "fotbal",
+    "hraní her"
+  ]
+}
