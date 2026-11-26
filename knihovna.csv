@@ -1,5 +1,17 @@
-id,nazev,autor,rok_vydani,dostupna
-1,Pán prstenů,J. R. R. Tolkien,1954,ano
-2,Malý princ,Antoine de Saint-Exupéry,1943,ne
-3,"Já, robot",Isaac Asimov,1950,ano
-4,Egypťan Sinuhet,Mika Waltari,1945,ne
+{
+  "jmeno": "Jan Novák",
+  "vek": 17,
+  "je_plnolety": false,
+  "poznamka": "Rád sportuji",
+  "adresa": {
+    "ulice": "Hlavní 12",
+    "mesto": "Ostrava",
+    "psc": "70200"
+  },
+  "konicky": [
+    "programování",
+    "fotbal",
+    "hraní her"
+  ],
+  "datum_registrace": "2026-11-12"
+}
