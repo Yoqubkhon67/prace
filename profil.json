@@ -2,7 +2,7 @@
   "jmeno": "Jan Novák",
   "vek": 17,
   "je_plnolety": false,
-  "poznamka": null,
+  "poznamka": "Rád sportuji",
   "adresa": {
     "ulice": "Hlavní 12",
     "mesto": "Ostrava",
@@ -12,5 +12,6 @@
     "programování",
     "fotbal",
     "hraní her"
-  ]
+  ],
+  "datum_registrace": "2026-11-12"
 }
